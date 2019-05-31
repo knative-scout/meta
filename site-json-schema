@@ -8,6 +8,10 @@
       "_comment": "all info used for creating card on main page",
       "repository": "Link to github repository of app source code",
       "provider": "name of individual or company that provides the app",
+      "icon":{
+        "base64data": "data of image",
+        "type": "type of data, e.g. image/png"
+      },
       "categories": [
         "categories",
         "of",
