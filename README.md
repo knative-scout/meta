@@ -10,4 +10,3 @@ Open planning of product.
 See:
 
 - [DESIGN.md](DESIGN.md)
-- [meetings/README.md](meetings/README.md)
